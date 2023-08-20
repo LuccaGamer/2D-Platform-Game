@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a62303d396500b14498fc124262fdf12
+  - enabled: 1
+    path: Assets/Scenes/MinotaurLevel.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Quit.unity
+    guid: 4e78263a36cecc64891f731e9a5834ae
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: a63e9b7b0deb7784f9c3a070f97e9387
+  m_configObjects: {}

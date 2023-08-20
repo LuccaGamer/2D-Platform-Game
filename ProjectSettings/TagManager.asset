@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitBox
+  - EnemyHitBox
+  - GroundDetection\
+  - Item
+  - FlyingEnemy
+  - PlayerDetectionZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2789037117
+    locked: 0
+  - name: BG Tree Decor
+    uniqueID: 3441105703
+    locked: 0
+  - name: BG plus
+    uniqueID: 2765264609
+    locked: 0
+  - name: Level Back Decor
+    uniqueID: 3134360385
+    locked: 0
+  - name: Ground
+    uniqueID: 1892815077
+    locked: 0
+  - name: Front Decor
+    uniqueID: 672580993
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Near Decor
+    uniqueID: 1348425741
+    locked: 0
+  - name: Water
+    uniqueID: 2688737591
+    locked: 0
